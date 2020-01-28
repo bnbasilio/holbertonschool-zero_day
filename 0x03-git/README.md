@@ -1,1 +1,1 @@
-This is an introduction to some git commands
+This is an introduction to some git commands and branches
